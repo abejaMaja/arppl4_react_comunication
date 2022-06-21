@@ -1,6 +1,5 @@
 
-![Alt text]([relative/path/to/img.jpg?raw=true ](https://github.com/abejaMaja/arppl4_react_comunication/blob/master/strona.png)"Example")
-
+![strona](https://user-images.githubusercontent.com/24192253/174892454-caba752a-dbc6-4d07-8cbf-c1f8838eecf2.png)
 
 
 # Getting Started with Create React App
