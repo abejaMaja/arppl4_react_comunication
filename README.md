@@ -1,3 +1,8 @@
+
+![Alt text]([relative/path/to/img.jpg?raw=true ](https://github.com/abejaMaja/arppl4_react_comunication/blob/master/strona.png)"Example")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
