@@ -1,0 +1,69 @@
+.WholeTable{
+
+    width: 70%;
+
+    font-size: 0.8em;
+}
+
+.kolumna1{
+    border: 1px solid black;
+    width: 20%;
+    overflow: hidden;
+
+}
+
+.kolumna2{
+    border: 1px solid black;
+    width: 20%;
+    overflow: hidden;
+}
+
+.kolumna3{
+    border: 1px solid black;
+    width: 20%;
+    overflow: hidden;
+}
+
+.kolumna4{
+    border: 1px solid black;
+    width: 10%;
+    overflow: hidden;
+}
+
+.kolumna5{
+    border: 1px solid black;
+    width: 10%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.kolumna4{
+    border: 1px solid black;
+    width: 10%;
+    overflow: hidden;
+}
+
+.kolumna6{
+    border: 1px solid black;
+    width: 10%;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.kolumna7{
+    border: 1px solid black;
+    width: 10%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.RekordTabeli:nth-child(odd){
+    background-color: #b6cbe8;
+}
+
+.RekordTabeli:nth-child(even){
+    background-color: lightblue;
+}
+
+
